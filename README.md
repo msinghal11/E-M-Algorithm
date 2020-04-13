@@ -8,5 +8,5 @@ Stochastic_Matrix.ipynb:
 
 Test_Data.ipynb:
 
-New goals:  Implement code in pandas to reduce amount of for loops and to condense code.   
+New goals:<br>Implement code in pandas to reduce amount of for loops and to condense code.   
             Add error messages for invalid arguments for "completealg" function.
